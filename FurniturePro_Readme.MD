@@ -1,6 +1,6 @@
-# Adventure Works Dashboard
+# FurniturePro Dashboard
 
-### Dashboard Link : https://drive.google.com/file/d/1SBgKtLOyg7vtWEfnevNnqZUoyyrUAe4T/view?usp=drive_link
+### Dashboard Link : https://drive.google.com/file/d/1PycQvPzgxgQWO26IBall36VgBZJnmqkF/view?usp=sharing
 
 
 ## Problem Statement
